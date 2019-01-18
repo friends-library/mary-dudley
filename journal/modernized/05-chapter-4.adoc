@@ -90,7 +90,7 @@ and met a kind reception at our friend Hannah Davis's, where,
 after the inconvenience of sea-sickness, we were consoled by friendly attention.`"
 
 "`We left Minehead on third-day, and arrived in London on fifth;
-I was affectionately received by my dear friends J. and M. Eliot, and retired to rest,
+I was affectionately received by my dear friends John and M. Eliot, and retired to rest,
 under, I hope, a thankful sense of many unmerited mercies,
 with the additional one of hearing from my family that all were well.`"
 
@@ -106,9 +106,9 @@ Yet hope I have not entered presumptuously on the list--the cause, I know,
 is in the best hands, and if my venturing brings no dishonor to it,
 I hope to be thankful--further seems not now in my view.`"
 
-"`The kindness of dear J. and M. E. is mixed with a
+"`The kindness of dear John and M. Eliot is mixed with a
 feeling of friendly sympathy better felt than described,
-and I have not been without some apprehension that J. E. feels deeper
+and I have not been without some apprehension that John Eliot feels deeper
 on the occasion than mere unity with the concern of others;
 but he is reserved and cautious;
 and if it so prove, it will, to be sure, be pleasant.`"
@@ -151,13 +151,13 @@ and every other passage to France utterly closed,
 so I simply communicated my feelings this evening to my companions, and,
 thus far peace attends.`"
 
-"`Our dear friend J. Eliot is, I believe, bound to the south,
+"`Our dear friend John Eliot is, I believe, bound to the south,
 but has as yet made no movement in his monthly meeting.
 Adey Bellamy has laid his prospect before Friends,
 and it is likely will be liberated by the time J. Eliot is,
 if he discloses his feelings at his next monthly meeting.
 Our having come here seems providential,
-as J. Eliot and Adey Bellamy understand the language well;
+as John Eliot and Adey Bellamy understand the language well;
 and the hope of this seasonable assistance has tended to renew my faith, and patience,
 which I sometimes trust will hold out to the end.`"
 
@@ -194,7 +194,7 @@ the continuance of gracious protection.`"
 and got to Colchester to dinner; met a kind reception at our friend John Kendal's,
 and had there in the evening, the company of Thomas Corbyn and Thomas Hull,
 who returned with John Kendal from the service of visiting the meetings in that county.
-It was pleasant to us to see T. Corbyn before our embarkation,
+It was pleasant to us to see Thomas Corbyn before our embarkation,
 and he was kindly affectionate and sympathizing tons;
 dear Rebecca Jones also spent the night herein her return from Ipswich.`"
 
@@ -228,8 +228,9 @@ though I thankfully remember having been enabled to surrender
 all I have to the disposal of unerring wisdom.`"
 
 "`Seventh-day, 22nd. The wind contrary, and no prospect of sailing, I feel very low,
-and almost in danger of casting away hope, First-day,
-So ill that I could not get up till about noon; our company went to meeting, where,
+and almost in danger of casting away hope.
+First-day, So ill that I could not get up till about noon; 
+our company went to meeting, where,
 I think, only about seven attended.
 In the evening, a solemnity covered us,
 under which dear George Dillwyn revived the query put to the disciples,
@@ -308,6 +309,7 @@ down all distinctions of names in religion.`"
 "`Second-day, 31st. After a solemn season with the only person we knew of here,
 who makes any profession with us, we set off in a treckschuyt, for Amsterdam,
 where we arrived the next evening, and met a kind reception, from John Vanderwerf.
+
 Fourth-day, attended the monthly meeting of the few Friends here,
 and light seeming to shine upon visiting these, in their own houses,
 we entered upon the service,
@@ -400,7 +402,7 @@ and found him an inward retired man, living pretty much alone,
 and not knowing that he has any companions in this large place,
 where superstition seems to reign.
 We had a season of solid retirement after tea,
-and some profitable conversation through R. G. in French.`"
+and some profitable conversation through Robert Grubb in French.`"
 
 "`15th. Went off the direct course about eighteen miles to Elberfeld,
 expecting to find some seeking people.
@@ -421,7 +423,7 @@ under which we parted.`"
 and got to Cologne to dinner--a dark place of popish superstition,
 crosses and images appearing almost every where in and about it:
 we all felt oppressed and glad to leave this place; reached Bonn, a smaller town,
-where similar idolatry prevailed: George Dillwyn, and R. G., walking out, saw the host,
+where similar idolatry prevailed: George Dillwyn, and Robert Grubb, walking out, saw the host,
 as it is called, carrying about, and the people kneeling to it.`"
 
 "`18th. Rode through a beautiful valley of vineyards, and other plantations,
@@ -609,7 +611,7 @@ and cleared the way for moving on.`"
 and travelled through a beautiful country,
 richly diversified by nature and improved by art, to Geneva,
 where I was confined one day by illness at a poor inn:
-here we got an account of our friends J. Eliot and A. Bellamy having arrived at Lyons.
+here we got an account of our friends John Eliot and Adey Bellamy having arrived at Lyons.
 Though I was still greatly indisposed, we set forward on the 16th,
 and travelled through almost incessant rain to Chalons, a little French village,
 where we were indifferently entertained and lodged at a very dirty inn.
@@ -749,7 +751,7 @@ and oversight of each other's moral conduct; but our men Friends,
 who understand the language, observed that their method far exceeded their expectations.
 This season was also graciously regarded,
 and renewed help afforded for the service required.
-The company of J. E. and A. B., is truly pleasant,
+The company of John Eliot and Adey Bellamy, is truly pleasant,
 and their facility in speaking French helpful; they lodge at a Friend's named Marignan,
 and we at a widow Benezet's.`"
 
@@ -864,7 +866,7 @@ and the meeting concluded in awful prayer and praise.`"
 here we experienced fresh conflict with respect to the way of proceeding; next day,
 however, our difficulties seemed to lessen,
 and the prospect of going to Alenon opened with clearness.
-We had a solemn parting with dear L. M. who felt very near to us,
+We had a solemn parting with dear L. Majolier who felt very near to us,
 and to whom the language '`Be steadfast, immovable,`' etc.,
 was addressed in the fresh flowing of gospel love.`"
 
@@ -917,8 +919,8 @@ landing at Brighthelmstone on seventh-day morning.
 We went on that afternoon to East Grinstead, and from there twenty miles,
 on first-day morning, to Croydon; attended meeting there, and reached London to tea.
 In this great city our five-fold cord untwisted,
-Robert and Sarah Grubb going to R. Chester's, A. B. to his own house,
-and J. E. and I to Bartholomew-close;
+Robert and Sarah Grubb going to Richard Chester's, Adey Bellamy to his own house,
+and John Eliot and I to Bartholomew-close;
 where the company of dear M. E. and her children was a real consolation to my poor mind,
 feeling this hospitable mansion as a second home.`"
 
