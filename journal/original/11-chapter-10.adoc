@@ -1,8 +1,9 @@
-== Chapter X.
+== Chapter X
 
-Visit to the Provinces of Ulster and Connaught--Illness and
-consequent Journey to the Hotwells--Family Visit at Wuterford,
-from Second Month 1795, to Twelfth Month 1796.
+[.chapter-synopsis]
+* Visit to the Provinces of Ulster and Connaught
+* Illness and consequent Journey to the Hotwells
+* Family Visit at Waterford, from Second Month 1795, to Twelfth Month 1796
 
 She was not long at home,
 before the call of duty again summoned her to prepare for giving
@@ -452,6 +453,7 @@ she was again drawn forth to address some individuals in a very particular manne
 it was a time of sweet refreshment in which most present were tendered,
 and I hope the sense of heavenly regard which then
 prevailed will not soon be forgotten by some of us.`"
+//does this above need to be embedded? It seems it was a letter that was written.
 
 Near the close of this service my dear mother wrote as follows:
 

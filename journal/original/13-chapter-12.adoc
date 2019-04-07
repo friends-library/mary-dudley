@@ -1,9 +1,10 @@
 == Chapter XII
 
-Illness and temporary residence in Bristol--Religious service there,
-and in some places adjacent--Return home,
-and visit to the Families of her own Monthly Meeting--Letter to a Friend.
-From 1798 to 1801.
+[.chapter-synopsis]
+* Illness and temporary residence in Bristol
+* Religious service there, and in some places adjacent
+* Return home, and visit to the Families of her own Monthly Meeting
+* Letter to a Friend. From 1798 to 1801
 
 An affection of the lungs, under which my beloved mother had suffered for several months,
 became in the spring increasingly serious; and her cough, with other alarming symptoms,
@@ -59,6 +60,10 @@ filled up to the relief and peace of my mind.`"
 In accordance with these views she applied to her Monthly Meeting for a certificate,
 in the following address.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Friends,
 
 Notwithstanding my leaving,
@@ -86,11 +91,16 @@ that whatever our individual allotments may be,
 we may experience that '`we have a strong city,`' and know
 salvation to be '`appointed for walls and bulwarks.`'
 
+[.signed-section-closing]
 I am, in gospel and affectionate love, your friend,
 
-Mary Dudley.
+[.signed-section-signature]
+Mary Dudley
 
+[.signed-section-context-close]
 Bristol, Eleventh month, 22nd, 1798.
+
+--
 
 After receiving the concurrence of her friends, which was readily granted,
 the first step she believed it right to take in the line of religious duty,
@@ -215,6 +225,10 @@ that her words were fulfilled in his experience,
 for his prison had indeed become as a palace, and in the immediate prospect of death,
 he would not change situations with the king on his throne.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear Brethren,
 
 For so I can call you in that love and deep solicitude
@@ -248,9 +262,13 @@ by His redeeming, sanctifying power, meet for His pure and holy kingdom;
 thus in a manner not to be fully described,
 prays your concerned and deeply sympathizing friend.
 
-Mary Dudley.
+[.signed-section-signature]
+Mary Dudley
 
+[.signed-section-context-close]
 Bristol, Fourth month 29th, 1799.
+
+--
 
 In reviewing her late engagements, and alluding to the disturbed state of public affairs,
 she writes as follows:
@@ -297,8 +315,13 @@ how earnestly she desired the preservation and help of her fellow professors,
 as well as the clearness and consistency of her own views,
 with respect to the fundamental truths of Christianity.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Suirville, near Clonmel, Eighth month 22nd, 1800.
 
+[.salutation]
 My dear Friend,
 
 In returning the manuscript with which thou entrusted me, allow me to observe,
@@ -416,4 +439,7 @@ Thou and thine are dear to my best and affectionate feelings;
 write to me freely if so inclined, I should be glad to hear from,
 and be remembered by thee, and am thy sincere friend,
 
-Mary Dudley.
+[.signed-section-signature]
+Mary Dudley
+
+--

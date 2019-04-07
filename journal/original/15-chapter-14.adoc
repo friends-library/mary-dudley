@@ -1,8 +1,8 @@
-== Chapter XIV.
+== Chapter XIV
 
-Religious Visit to some parts of Leinster and Munster--Illness in the family,
-and death of her Husband and Son.
-From Second month, 1805, to Twelfth month, 1807.
+[.chapter-synopsis]
+* Religious Visit to some parts of Leinster and Munster
+* Illness in the family, and death of her Husband and Son. From Second month, 1805, to Twelfth month, 1807
 
 In the second month, 1805,
 she obtained liberty from the Monthly Meeting for the performance of
@@ -307,8 +307,13 @@ and we had reason to be thankful, whether the labour prove availing or not.`"
 
 Before leaving Limerick, she addressed the following letter to the clergyman at Adair.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Limerick, Sixth month 22nd, 1807.
 
+[.salutation]
 Dear Friend,
 
 I regretted that we were so limited for time, yesterday,
@@ -355,7 +360,10 @@ which I consider instructively explanatory of the
 religious principles professed by us as a Society:
 and with sentiments of esteem and gospel love, I am thy sincerely well wishing friend.
 
+[.signed-section-signature]
 Mary Dudley.
+
+--
 
 A visit to the families in Youghal succeeded her engagements at Limerick,
 and she also held several public meetings there, and in the city of Cork;

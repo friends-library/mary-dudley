@@ -1,9 +1,12 @@
-== Chapter XV.
+== Chapter XV
 
-Family Visit at Clonmel--Death of her daughter--Removal to London--Visit to
-Friends of Southwark Monthly Meeting--Journey into Dorset and Hants--
-Religious service within the Quarterly Meeting of London and Middlesex.
-From Twelfth month 1807, to the end of 1814.
+[.chapter-synopsis]
+* Family Visit at Clonmel
+* Death of her daughter
+* Removal to London
+* Visit to Friends of Southwark Monthly Meeting
+* Journey into Dorset and Hants
+* Religious service within the Quarterly Meeting of London and Middlesex, from Twelfth month 1807, to the end of 1814
 
 My dear mother had for several years believed that her measure
 of gospel labour in Ireland was nearly filled up,
@@ -240,8 +243,13 @@ and peculiarly acceptable in the sight of Him from whom every mercy is received.
 
 The annexed letter will not, it is believed, be unsuitably introduced here.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Caraberwell, Sixth month 18th, 1813.
 
+[.salutation]
 To Louis Majolier, and other Friends of the Meetings in the South of France,
 visited in 1788.
 
@@ -303,7 +311,10 @@ I feel the extension of Christian love to the various classes among you,
 and with all my heart say farewell in the Lord!
 Your poor feeble, but affectionate sister,
 
+[.signed-section-signature]
 Mary Dudley.
+
+--
 
 At the time of the autumn Quarterly meeting,
 she felt her mind so exercised on account of the young people belonging to it,
