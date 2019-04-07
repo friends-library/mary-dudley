@@ -1,9 +1,7 @@
-== Chapter IX.
+== Chapter IX
 
-Visit to Leinster Province,
-parlicularly the County of Wexford--Public Meetings in the
-County of Cork--Letter to the French Prisoners at Kinsale.
-1794.
+[.chapter-synopsis]
+* Visit to Leinster Province, particularly the County of Wexford, also Public Meetings in the County of Cork, and Letter to the French Prisoners at Kinsale. 1794.
 
 During the ensuing winter,
 my beloved mother was mostly occupied in religious
@@ -115,6 +113,10 @@ attracted her notice after a public meeting at Ross,
 which, with a few extracts from one he wrote to her in reply,
 it is thought may prove both acceptable and instructive to some readers.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 Strange as it may appear for one who has no acquaintance with thee,
@@ -193,14 +195,21 @@ sanctified throughout, body, soul and spirit,
 participate everlastingly of the treasures of the Lord`'s
 house;--so desireth the heart of thy truly well-wishing friend,
 
-Mary Dudley.
+[.signed-section-signature]
+Mary Dudley
 
-[.asterism]
-'''
+--
 
+[.offset]
+The reply:
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Respected Friend,
 
-for so I must call you,
+For so I must call you,
 your very unexpected and highly welcome letter was delivered to me last Saturday evening.
 
 Just before I received it my mind was engaged on divine subjects,
@@ -242,6 +251,8 @@ May we, every one of us, hold out unto the end and be saved,
 that so in the day when the Lord shall make up his jewels we may unitedly
 partake of the boundless ocean of everlasting glory and bliss.
 These are the fervent desires of your much obliged and sincere well wisher.`"
+
+--
 
 From Ennlscorthy she went to Ballinclay, whence she writes as follows:
 
@@ -363,7 +374,10 @@ Near the conclusion of this engagement she writes:
 the line of labour, and for the extension of holy help;
 so that there is cause for continued trust in the arm of divine sufficiency.`"
 
-An Address To the French Prisoners at Kinsale.
+[.embedded-content-document.address]
+--
+
+=== An Address to the French Prisoners at Kinsale
 
 The love of the gospel having lately engaged me to pay a religious visit to Kinsale,
 where by the sorrowful effects of that spirit which causeth wars in the earth,
@@ -491,4 +505,7 @@ in order that He may proclaim everlasting victory over death, hell and the grave
 
 I am, in the love and sympathy of the gospel, your friend,
 
-Mary Dudley.
+[.signed-section-signature]
+Mary Dudley
+
+--

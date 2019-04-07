@@ -1,8 +1,10 @@
 == Chapter V.
 
-Family visit in Cork--Journey to Ulster Province--and
-Public Meetings in some parts of Munsler.
-From Twelfth month 1788, to Third month 1792.
+[.chapter-synopsis]
+* Family visit in Cork
+* Journey to Ulster Province
+* Public Meetings in some parts of Munsler
+* From Twelfth month 1788, to Third month 1792
 
 In the twelfth month, 1788, being at her own quarterly meeting, held in Cork,
 my dear mother felt a pressure of mind to unite
@@ -16,7 +18,12 @@ and the following extracts seem calculated to
 prove both instructive and encouraging to some,
 who may be able to trace their own feelings in the experience here described.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 "`Cork, twelfth month, 15th, 1788.
+
 It has turned out as I believe thou expected it would, and I am once more in this place;
 after thou left me I determined to proceed for
 meeting thee under our own roof this night,
@@ -80,6 +87,8 @@ lest on any occasion, it should take the lead; but under heavy pressures here,
 I have a degree of hope, that not going this warfare at my own cost,
 I may yet be helped to the end of il, which now draws nigh,
 having gone through about eighty-five families, and only a few remaining.`"
+
+--
 
 The next religious service of which there is any account,
 was a visit to some part of Leinster Province, early in the year 1790,
@@ -584,6 +593,9 @@ and it may not be uninteresting to such as knew and valued this devoted man,
 to peruse a few particulars of his state, and her own feelings in witnessing it,
 as related in a letter dated the 27th of second month.
 
+[.embedded-content-document.letter]
+--
+
 "`It was awful to enter the chamber of our venerable friend,
 and to behold one who had been so often the messenger
 of consolation to me and to many others,
@@ -611,6 +623,8 @@ and waited until the last conflict terminated in everlasting peace,
 of which I thought it a great favour to be permitted to feel such an evidence;
 that instead of lamentation the language of praise might be uttered,
 while on account of the church this renewed loss is certainly grievous.`"
+
+--
 
 On the 28th,
 my dear mother and her companion resumed their important engagements by going to Kinsale,
@@ -687,6 +701,10 @@ and so manifests the continuance of affectionate and Christian
 solicitude on behalf of her friends on the continent,
 that it appears calculated to prove an acceptable termination to the present chapter.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`My beloved Friend, L. Majolier:
 
 "`Were I to tell thee and thy dear wife, with my other valued friends at Congenies,
@@ -802,8 +820,12 @@ Finally, beloved friends,
 farewell in the Lord! may He '`be sanctified in them who come nigh`' Him,
 and the gracious purpose of His will be effected,
 by preparing for himself`' a glorious church, not having spot, or wrinkle,
-or any such thing.`'
+or any such thing.`' In the fresh feeling of undiminished love,
 
-In the fresh feeling of undiminished love, I am your cordial friend,
+[.signed-section-closing]
+I am your cordial friend,
 
+[.signed-section-signature]
 Mary Dudley.
+
+--
