@@ -438,6 +438,9 @@ An account of a public meeting held at Waterford was thus given by a
 Friend who had been her companion in part of this engagement,
 and kindly wrote to her husband when she was prevented doing so by indisposition.
 
+[.embedded-content-document.letter]
+--
+
 "`The house was nearly full, and those assembled behaved with becoming solidity;
 the covering of good was soon felt, and after dear Mary had appeared in supplication,
 she was largely engaged in the exercise of her precious gift;--on the
@@ -453,7 +456,8 @@ she was again drawn forth to address some individuals in a very particular manne
 it was a time of sweet refreshment in which most present were tendered,
 and I hope the sense of heavenly regard which then
 prevailed will not soon be forgotten by some of us.`"
-//does this above need to be embedded? It seems it was a letter that was written.
+
+--
 
 Near the close of this service my dear mother wrote as follows:
 
