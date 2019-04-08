@@ -1,6 +1,7 @@
 == Chapter I.
 
-From her birth to the time of her joining the Religious Society of Friends, in 1773.
+[.chapter-synopsis]
+* From her birth to the time of her joining the Religious Society of Friends, in 1773
 
 Mary Dudley was the daughter of Joseph and Mary Stokes, and born in the city of Bristol,
 the 8th of the sixth month, 1750.
@@ -125,8 +126,10 @@ who continued or sought her acquaintance.
 At this period she frequently recorded her feelings in metrical composition;
 and the two following pieces are selected, as instructively describing her state of mind.
 
-Written On Her Twentieth Birth-Day.
+=== Written On Her Twentieth Birth-Day
 
+[verse]
+____
 Did angels`' love or seraphs`' glowing fire
 My bosom warm, or my glad breast inspire--
 With what loud praises would I pierce the skies,
@@ -155,9 +158,12 @@ Since Mercy deigns to smile,--hail welcome morn!
 Forever solemniz`'d be thy return;
 On thee let pure devotion ever rise,
 And breathe to heaven unsullied sacrifice.
+____
 
-A Hymn, Written In the Twenty-First Year of Her Age.
+=== A Hymn, Written In the Twenty-First Year of Her Age
 
+[verse]
+____
 How shall I tune a trembling lay.
 How touch the soften`'d string?
 Fain would I heav`'nly love display,--
@@ -217,6 +223,7 @@ I`'ll warble to each list`'ning ear
 The feeble song of praise;
 My sweet employ while trav`'lling here.
 To lisp Redeeming Grace!
+____
 
 She was much esteemed by John Wesley,
 and other distinguished characters in the Methodist connection,
@@ -272,10 +279,13 @@ Oh! what happiness should we find resulting from the desire that He might choose
 Surely infinite love joins with infinite wisdom, and wills our peace.
 May our language then be ever this--
 
+[verse]
+____
 '`Melt down our will and let it flow
-
 And take the mould divine.`'
+____
 
+[.no-indent]
 --"`Consider the Apostle and High Priest of our profession, Jesus Christ,
 who for the joy that was set before Him endured the cross.
 Oh! my friend, let us press toward the mark,
@@ -368,10 +378,13 @@ The following letter to him closed her correspondence with this highly esteemed 
 who afterwards continued to treat her with affectionate regard,
 and to speak of her in terms of respect.
 
-Letter to John Wesley
+[.embedded-content-document.letter]
+--
 
-July 29, 1772.
+[.letter-heading]
+Letter to John Wesley, July 29, 1772
 
+[.salutation]
 My very dear and worthy friend:
 
 For once I can say, the receipt of a letter from you has given me inexpressible pain;
@@ -406,20 +419,26 @@ the excessive warmth of the room was too much for me to bear.
 I am obliged to testify, the Lord has clothed his word delivered there with divine power,
 for which the heart of my dear father will rejoice, since
 
+[verse]
+____
 '`Names, and sects, and parties fall,
-
 And thou, O Christ, art all in all!`'
+____
 
+[.no-indent]
 With regard to silent meetings,
 I apprehend their authority may be known by the power they are attended with.
 I have not been at such,
 yet in my own experience find the unutterable prayer to be the most profitable,
 and am led much into what is so beautifully expressed in one of our hymns.
 
+[verse]
+____
 '`The speechless awe that dares not move,
-
 And all the silent heaven of love!`'
+____
 
+[.no-indent]
 I long to be more internally devoted to that God,
 who alone is worshipped in spirit and in truth; and find,
 in order to keep up a spiritual intercourse, there must be a deep, inward,
@@ -442,6 +461,7 @@ that he would join me in that emphatic prayer to the God of all grace,
 '`Thy will be done;`' to which an attention and obedience will, I trust,
 divinely influence his very unworthy, but gratefully affectionate,
 
+[.signed-section-signature]
 Mary Stokes.
 
 After this she gradually withdrew from the Methodist Society,

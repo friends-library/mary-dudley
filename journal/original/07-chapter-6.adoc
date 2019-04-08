@@ -1,6 +1,7 @@
 == Chapter VI.
 
-Religious Visit to Dunkirk and Guernsey, in the year 1792.
+[.chapter-synopsis]
+* Religious Visit to Dunkirk and Guernsey, in the year 1792
 
 A service for which my dear mother had long been preparing,
 and which she contemplated with awfulness and many fears,
@@ -13,6 +14,10 @@ The trial which it was to her affectionate feelings, and the conflicts she endur
 when thus about to leave her husband and children,
 are somewhat described in the following extract from a letter, dated
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Sixth month, 23rd, 1792.
 
 Thy sympathy in my present important prospect is truly consoling,
@@ -25,6 +30,8 @@ what struggles do I renewedly feel to give up all;
 at this moment I am even ready to question whether that faith
 to which all things are possible will be victorious,
 or rather that the small grain will so increase as to give the victory.
+
+--
 
 On the 1st of the eighth month she sailed from Waterford,
 being accompanied by her dear friends, Elizabeth Pim and Edward Hatton,

@@ -1,5 +1,7 @@
-== Some Account of the Last Illness and Death of Hannah Dudley
+[#hannah-dudley, short="Illness and Death of Hannah Dudley"]
+== Some Account Of The Last Illness And Death Of Hannah Dudley
 
+[.chapter-subtitle--blurb]
 Who Was Released From The Troubles And Dangers
 Of Time on the 19th day of the third month 1810,
 in the twenty-sixth year of her age.
@@ -51,7 +53,8 @@ which describe the earnestness of her desire for complete sanctification,
 it is thought that the following extracts may be a suitable
 introduction to the particulars of her last illness and death.
 
-EXTRACTS.
+[.alt.centered]
+=== EXTRACTS
 
 Eighth month 25th, 1805.
 "`This day I completed my 21st year;
@@ -78,10 +81,13 @@ for thou alone, dearest Father, canst afford strength in such a moment.`"
 
 First month 1st, 1809, one o`'clock First-day morning:
 
+[verse]
+____
 "`Another year forever gone
-
 Proclaims the end of time.`"
+____
 
+[.no-indent]
 "`May the succeeding one be passed more circumspectly,
 and an increase of knowledge be acquired on
 subjects worthy the pursuit of an immortal soul!
@@ -132,9 +138,6 @@ and self-denial of the true follower of a crucified Redeemer,
 of how much more the instrument of good to others should I be permitted to become;
 and how much larger a portion of that peace which the world cannot give,
 neither take from its happy possessor, should I be frequently blessed with.`"
-
-[.asterism]
-'''
 
 On the 15th of the First month, 1810,
 my precious sister was attacked with violent pain in her face,
@@ -189,16 +192,24 @@ Soon after this, mentioning a relation who had lately died; "`Poor +++_______+++
 Oh! if people did but consider rightly I often think how insignificant those
 things would appear which now make us anxious and uneasy.
 
+[verse]
+____
 '`Ah! what is life, that thoughtless wish of all,
+A drop of honey in a draft of gall.`'
+____
 
-A drop of honey in a draught of gall.`'`"
+[.no-indent]
+I remarked that the next line was also striking:
 
-I remarked that the next line was also striking
+[verse]
+____
+'`A half existence, or a waking dream.`'
+____
 
-'`half existence, or a waking dream.`"
+[.no-indent]
+"`Yes, indeed,`" she replied,
+"`we do not exist here; it is in eternity we shall have our existence.`"
 
-"`Yes, indeed,`" she replied, "`we do not exist here;
-it is in eternity we shall have our existence.`"
 After awhile she again spoke on the improbability of her recovery,
 and mentioned her absent brothers with much tenderness, desiring that when any one wrote,
 her love might be given them; adding, "`I think I shall never see them again,

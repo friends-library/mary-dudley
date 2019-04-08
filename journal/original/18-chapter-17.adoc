@@ -1,7 +1,8 @@
-== Chapter XVII.
+== Chapter XVII
 
-Visit to the families belonging to Devonshire Monthly meeting.--Illness and death.
-From Twelfth month 1822, to Ninth month 1823.
+[.chapter-synopsis]
+* Visit to the families belonging to Devonshire Monthly meeting.
+* Illness and death. From Twelfth month 1822, to Ninth month 1823.
 
 In the twelfth month, 1822,
 my beloved mother informed her friends of a fresh prospect of religious duty,
@@ -326,8 +327,13 @@ and often to excite apprehension that her vital powers were rapidly sinking;
 while she was still kept in ignorance, and as she would sometimes say,
 remarkably blind as to the event.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Yearly meeting of Ministers and Elders, held in London, fifth month, 1823.
 
+[.salutation]
 Dearly beloved Friends,
 
 Separated from you by the pressure of extreme bodily weakness,
@@ -387,10 +393,14 @@ Amen.
 In the feeling of affectionate and gospel love, I salute you,
 and am your very poor and variously tried friend,
 
+[.signed-section-signature]
 Mary Dudley.
 
+[.signed-section-context-close]
 Dictated in her sick chamber but signed with her own hand at Peckham,
 the 28th of Fifth month, 1823.`"
+
+--
 
 In the early part of the sixth month she so far revived as to
 bear being taken from her chamber to a sitting room,
