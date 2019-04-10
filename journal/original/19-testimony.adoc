@@ -1,4 +1,5 @@
-== A Testimony of Southwark Monthly meeting, concerning Mary Dudley, deceased.
+[#testimony-southwark.style-blurb, short="Testimony of Southwark Monthly Meeting"]
+== Testimony of Southwark Monthly meeting, concerning Mary Dudley, deceased.
 
 This our beloved friend was born in the city of Bristol, the 8th of sixth month 1750,
 of parents professing the principles of the established church;
@@ -250,19 +251,28 @@ in the seventy-fourth year of her age; a minister about fifty years;
 and her remains were interred in Friends`' Burial Ground, near Bunhill Fields,
 on the 2nd of the tenth month, after a solemn meeting at Southwark.
 
+[.small-break]
+'''
+
 Signed in Southwark Monthly meeting, 10th of second month, 1824, by many Friends.
 
+[.small-break]
+'''
+
 At a Quarterly meeting for London and Middlesex, held the 30th of the Third month, 1824.
+
+[.small-break]
+'''
 
 The foregoing testimony concerning our beloved friend Mary Dudley,
 whose memory is precious to us,
 in the remembrance of her "`work of faith and
 labour of love,`" has been read in this meeting,
 and being cordially united with, after some small alterations,
-is signed in and on behalf of the meeting, by
+is signed in and on behalf of the meeting, by John Eliot, Clerk.
 
-John Eliot, Clerk.
+[.small-break]
+'''
 
 Signed in and on behalf of the Women`'s meeting.
-
 Hannah Messer, Clerk.
