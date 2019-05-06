@@ -250,7 +250,7 @@ The annexed letter will not, it is believed, be unsuitably introduced here.
 --
 
 [.signed-section-context-open]
-"`Caraberwell, Sixth month 18th, 1813.
+Caraberwell, Sixth month 18th, 1813.
 
 [.salutation]
 To Louis Majolier, and other Friends of the Meetings in the South of France,
@@ -317,7 +317,7 @@ and with all my heart say farewell in the Lord!
 Your poor feeble, but affectionate sister,
 
 [.signed-section-signature]
-Mary Dudley`"
+Mary Dudley.
 
 --
 

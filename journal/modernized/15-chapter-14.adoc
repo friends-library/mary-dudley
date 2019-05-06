@@ -311,7 +311,7 @@ Before leaving Limerick, she addressed the following letter to the clergyman at 
 --
 
 [.signed-section-context-open]
-"`Limerick, Sixth month 22nd, 1807.
+Limerick, Sixth month 22nd, 1807.
 
 [.salutation]
 Dear Friend,
@@ -362,7 +362,7 @@ religious principles professed by us as a Society:
 and with sentiments of esteem and gospel love, I am your sincerely well wishing friend.
 
 [.signed-section-signature]
-Mary Dudley.`"
+Mary Dudley.
 
 --
 

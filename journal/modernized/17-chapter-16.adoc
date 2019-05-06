@@ -59,7 +59,7 @@ In returning the certificate of her Monthly meeting she wrote as follows:
 To Friends of the Monthly meeting of South-wark.
 
 [.salutation]
-"`Dear Friends,
+Dear Friends,
 
 Feeling unequal to the personal attendance of our Monthly meeting,
 I adopt this method of returning the minute which was kindly issued a long time since,
@@ -81,7 +81,7 @@ and conclude beloved friends, your very affectionate interested friend,
 Mary Dudley
 
 [.signed-section-context-close]
-14th of Twelfth month 1817`"
+14th of Twelfth month 1817.
 
 --
 

@@ -95,7 +95,7 @@ salvation to be '`appointed for walls and bulwarks.`'
 I am, in gospel and affectionate love, your friend,
 
 [.signed-section-signature]
-M+++.+++ Dudley
+Mary Dudley
 
 [.signed-section-context-close]
 Bristol, Eleventh month, 22nd, 1798.`"
@@ -228,7 +228,7 @@ he would not change situations with the king on his throne.
 --
 
 [.salutation]
-"`My dear Brethren,
+My dear Brethren,
 
 For so I can call you in that love and deep solicitude
 which allows no distinction of names to religion.
@@ -266,7 +266,7 @@ prays your concerned and deeply sympathizing friend.
 Mary Dudley
 
 [.signed-section-context-close]
-Bristol, Fourth month 29th, 1799`"
+Bristol, Fourth month 29th, 1799.
 
 --
 
@@ -319,7 +319,7 @@ with respect to the fundamental truths of Christianity.
 --
 
 [.signed-section-context-open]
-"`Suirville, near Clonmel, Eighth month 22nd, 1800.
+Suirville, near Clonmel, Eighth month 22nd, 1800.
 
 [.salutation]
 My dear Friend,
@@ -440,6 +440,6 @@ write to me freely if so inclined, I should be glad to hear from,
 and be remembered by you, and am your sincere friend,
 
 [.signed-section-signature]
-Mary Dudley`"
+Mary Dudley
 
 --
