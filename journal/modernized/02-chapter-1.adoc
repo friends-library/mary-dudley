@@ -390,13 +390,13 @@ Letter to John Wesley, July 29, 1772.
 My very dear and worthy friend:
 
 For once I can say, the receipt of a letter from you has given me inexpressible pain;
-lam therefore constrained to address you in this maimer, before we personally meet,
+lam therefore constrained to address you in this manner, before we personally meet,
 as I fear my spirits would not enable me so freely to speak,
 as to write the undisguised feelings of my heart.
 I believe the apprehension of my valuable friend and father,
 arises from a tender affection for an unworthy worm;
-of the sincerity of which he has only added a fresh and
-convincing proof whether I may give weight to,
+of the sincerity of which he has only added a fresh and convincing proof.
+Whether I may give weight to,
 or dissipate your fears, the most unreserved declaration of my sentiments will determine.
 Your reviving in my remembrance,
 the many favors I have received from the liberal hand of mercy,
@@ -554,7 +554,7 @@ and was endeavoring to act in simple obedience to the
 discoveries of divine light in her own soul.
 
 Upon leaving her, he presented a book, which he enjoined her to read,
-but upon looking at the title "`A Preservative from Quakerism,`" she pleasantly observed,
+but upon looking at the title [.book-title]#A Preservative from Quakerism,# she pleasantly observed,
 "`It is too late, you should have brought me a restorative.`"
 In the midst of this opposition,
 she was much encouraged by the sympathy and Christian advice of Elizabeth Johnson,

@@ -1,9 +1,10 @@
 == Chapter X
 
 [.chapter-synopsis]
+* Second Month 1795, to Twelfth Month 1796
 * Visit to the Provinces of Ulster and Connaught
 * Illness and consequent Journey to the Hotwells
-* Family Visit at Waterford, from Second Month 1795, to Twelfth Month 1796.
+* Family Visit at Waterford
 
 She was not long at home,
 before the call of duty again summoned her to prepare for giving
@@ -193,7 +194,7 @@ I trust there were some who assented to the importance of that work which
 all their own creaturely willings and runnings could never effect;
 so that if no more good was done than a little
 ploughing up the fallow ground of Strokestown,
-even that may prepare the way for some`' other labourers more
+even that may prepare the way for some other labourers more
 readily and availingly to enter into the field.
 Though nearly all the inhabitants are Roman Catholics,
 yet many applied for books after some had been distributed.
@@ -243,7 +244,7 @@ This town is mostly inhabited by Roman Catholics,
 so that it was not expected many would attend;
 but a large company of that description came, as well as most of the Protestants,
 and among them the minister who gave us the house.
-An arduous fine of labour fell to my lot;
+An arduous line of labour fell to my lot;
 it was truly like going forth with the gospel sword, if I was ever intrusted with it,
 against those structures not reared by divine power.
 Although the extreme ignorance of the people caused the work to feel heavy,
@@ -263,11 +264,10 @@ being wholly confined to bed.
 A few days nursing and kind care tended to recruit me,
 so that by the end of the week I was able to go out among my friends,
 and on first-day attended both meetings.
-In these close exercise and labour fell to my lot, under the oppressive sense,
+In these close exercise and labour fell to my lot, under the oppressive sense
 that the lamenting language of the great Master
 is painfully applicable in the present day,
-'`Oh!
-Jerusalem, Jerusalem, how often would I have gathered thy children,
+'`Oh! Jerusalem, Jerusalem, how often would I have gathered thy children,
 even as a hen gathereth her chickens under her wings,
 and ye would not.`' Deeply did my spirit feel with our honourable friend Mary Ridgway,
 who having long laboured in this part of the vineyard,
@@ -276,7 +276,7 @@ is sure, and she seems so low and sunk in strength,
 that I should not be surprised if this soon awaited her.
 
 "`We left Mount Mellick on second-day morning,
-and had a meeting in the Assemblyroom at Tullamore that evening,
+and had a meeting in the Assembly room at Tullamore that evening,
 and one in the Sessions-house at Maryborough on fourth,
 proceeding to Durrow on fifth-day evening.
 I felt attracted to Ballinakill, about three miles distant,
@@ -409,11 +409,10 @@ and that they had constantly attended meetings for several months past.
 I spoke to them on going out of the meeting house, and they cordially to me;
 since then we have seen more of each other; they are indeed a wonderful family,
 and the more I know of them, the more my heart is attached to them.`"^
-footnote:[This Friend, Elizabeth Ussher,
-was afterwards well known as an acceptable minister in our Society,
-she and three daughters having joined it by convincement,--See
-"`Ussher`'s Letters,`" printed in Dublin,
-1812.]
+footnote:[This Friend, Elizabeth Ussher, was afterwards well known as an
+acceptable minister in our Society, she and three daughters having
+joined it by convincement,--See [.book-title]#Ussher`'s Letters,#
+printed in Dublin, 1812.]
 After she and her companion had visited the few families in Ross,
 she thus relates a circumstance which occurred there.
 
@@ -463,7 +462,7 @@ Near the close of this service my dear mother wrote as follows:
 
 "`I feel unable to do as much in this line as I once could,
 nor am I even qualified to keep any little sketch of what I go through from day to day,
-as if all that is once`" passed was gone from my remembrance,
+as if all that is once passed was gone from my remembrance,
 by fresh exercise continually occurring;
 so that the poor vessel is kept in a state of quiet emptiness,
 except when any thing is put into it for others,

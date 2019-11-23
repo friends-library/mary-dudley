@@ -1,9 +1,7 @@
 == Chapter IV.
 
 [.chapter-synopsis]
-* Journey to some parts of Holland, Germany and France
-* In company with Sarah Robert Grubb
-* 1788
+* 1788+++.+++ Journey to some parts of Holland, Germany and France in company with Sarah Robert Grubb
 
 The next religious engagement upon which my dear mother entered,
 was one of an extensive and deeply important nature: the prospect of this,
@@ -32,7 +30,7 @@ at a period when those about me expected my dissolution,
 to such a deep attention to the discoveries of light, that, as in a vision,
 though perfectly awake and sensible, I was carried to some distant parts,
 even to a people of a strange language;
-where gospel liberty was fell in '`a remarkable manner: then the vision was again sealed,
+where gospel liberty was felt in a remarkable manner: then the vision was again sealed,
 being for an appointed time, nor did I ever fully understand it,
 though from that period a solemn covering spread over my mind,
 till my ever dear and valuable sister Sarah R. Grubb laid before our
@@ -209,7 +207,7 @@ one was held that evening, and I think owned by gracious regard.
 "`As no packets leave Harwich regularly, but on fourth and seventh days,
 our proceeding thither seemed not desirable till near the time;
 we therefore rested at our comfortable lodgings fifth-day,
-and on sixth went to Manningtree, where a meeting had been appointed fur ten o`'clock;
+and on sixth went to Manningtree, where a meeting had been appointed for ten o`'clock;
 the house is small, and few Friends reside here,
 but it was pretty well filled with a solid, quiet company,
 and was to me the best meeting since my leaving home,
@@ -316,8 +314,8 @@ we entered upon the service,
 which was so owned by the prevalence of gospel liberty and love,
 that hard things were made comparatively easy.
 Sarah Grubb and I had never before spoken through an interpreter,
-which office John Vanderwerf jun.
-filled agreeably, and our minds were bowed in thankfulness to the Lord,
+which office John Vanderwerf Jr. filled agreeably,
+and our minds were bowed in thankfulness to the Lord,
 who manifests himself a present helper.
 
 "`The situation of these few sheep, as it were in a wilderness country,
@@ -347,7 +345,7 @@ pain still attends the remembrance of my want of dedication in these meetings.
 "`Second-day morning.
 We had a little sitting among ourselves, desiring to feel our way from,
 or detention in this city, rightly ordered; we were afresh helped to believe, that,
-as the eye was kept single.
+as the eye was kept single,
 He who had led forth would continue to preserve us.
 We went to tea with a family named Decknatel--a widow, her son, and two daughters;
 these were educated in the Anabaptist profession,
@@ -380,7 +378,7 @@ which was well attended as to numbers, but the people were unsettled in time of 
 the doctrine of Truth ran clearly,
 and a hope was raised that some felt a testimony to it in their own minds.
 
-"`10th. Left Amsterdam with John Vanderwerf jun, and Frederick Mentz, in a carriage boat,
+"`10th. Left Amsterdam with John Vanderwerf Jr., and Frederick Mentz, in a carriage boat,
 the usual way of travelling in this country; it is drawn along a canal by a horse,
 and consists of a small cabin, calculated to hold seven or eight,
 and a larger room which will contain about thirty people,
@@ -655,7 +653,7 @@ and the extension of the love of the universal parent to His children,
 spread a serenity not easily set forth.
 
 "`We were desired to accompany some who joined us to a neighbouring house,
-and the room we entered was soon tilled with persons, who,
+and the room we entered was soon filled with persons, who,
 by every testimony we could comprehend, rejoiced in seeing us;
 though many expressed their feelings only by tears.
 They reluctantly consented for the first night,
@@ -671,7 +669,7 @@ in being permitted to provide for ourselves.
 We therefore accepted apartments in two of their houses,
 and while these and their manner of cooking,
 are very different to what we have ever been accustomed to,
-the belief that we are herein right direction,
+the belief that we are here in right direction,
 smooths what would otherwise be hard to bear.
 Their love for our company is such that they seldom leave us alone,
 and-seem to think they cannot do enough to make us comfortable.
@@ -703,7 +701,7 @@ and the still small voice which succeeds the wind and the fire, intelligibly hea
 yet we were comforted in observing much of this emotion subside,
 and the meeting was favoured towards the conclusion, with a solemnity it wanted before;
 the people settling more into stillness,
-while testimony and prayer went forth through George Dillwyn
+while testimony and prayer went forth through George Dillwyn.
 
 "`Thinking that sympathy with them in their different growths, and situations,
 was likely to be more fully known by a discriminating visit,
@@ -856,7 +854,7 @@ no doubt in unerring wisdom!
 
 "`15th. Though still much indisposed I was not easy to stay from meeting;
 therefore arose, and was made renewedly sensible, that when the creature is so reduced,
-as to know indeed that it can do nothing.
+as to know indeed that it can do nothing,
 He who is strength in weakness shows himself strong.
 I was helped to discharge myself honestly, to my own peace,
 and the meeting concluded in awful prayer and praise.
@@ -864,7 +862,8 @@ and the meeting concluded in awful prayer and praise.
 "`16th. We left St. Giles, and spent that night at Nismes;
 here we experienced fresh conflict with respect to the way of proceeding; next day,
 however, our difficulties seemed to lessen,
-and the prospect of going to Aleneon opened with clearness.
+// lint-disable invalid-characters
+and the prospect of going to Alençon opened with clearness.
 We had a solemn parting with dear L. Majolier who felt very near to us,
 and to whom the language '`Be thou steadfast, immovable,`' etc.,
 was addressed in the fresh flowing of gospel love.
@@ -890,7 +889,8 @@ fine pasture and corn fields,
 and walnut trees frequently bounding each side of the road for miles together.
 
 "`We arrived at Paris on the evening of the 29th,
-and left it again the 2nd of the seventh month, travelling post to Alencon;
+// lint-disable invalid-characters
+and left it again the 2nd of the seventh month, travelling post to Alençon;
 here our friend J. M. met us, and we went in his coach to Desvignes,
 his place of residence, about a league distant; we were kindly received by his wife,
 and being weak and weary, found this resting place comfortable.
@@ -904,8 +904,9 @@ the idea of parting felt trying,
 but the belief that it is individual faithfulness which constitutes Christian harmony,
 tended to produce resignation.
 
-"`8th. With a savour of good, covering all our minds, we took leave of this family;
-and at Alencon under somewhat of solemn sadness,
+"`8th. With a savour of good covering all our minds, we took leave of this family;
+// lint-disable invalid-characters
+and at Alençon under somewhat of solemn sadness,
 parted with our endeared companions George and Sarah Dillwyn;
 J+++.+++ M. going with them to Guernsey,
 and the remainder of our little band proceeding towards Dieppe,
@@ -968,7 +969,7 @@ and I trust no harm was done to the precious cause.
 We were affectionately entertained at the house of our friend Davis.
 Next day we called on the few families of Friends residing there,
 and after several seasons of liberty and favour,
-went on second-day afternoon from thence to Gloucesler.
+went on second-day afternoon from thence to Gloucester.
 
 "`4th. This morning we breakfasted with the only Friends residing here,
 and in a time of quiet afterwards,
