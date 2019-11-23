@@ -1,13 +1,13 @@
 == Chapter VII.
 
 [.chapter-synopsis]
-* Continuation of the same journey, comprising a visit to the North of England and Scotland. 1792
+* 1792+++.+++ Continuation of the same journey, comprising a visit to the North of England and Scotland
 
 "`We remained in the city over first-day, attending Peel meeting in the morning,
 and Gracechurch-street in the afternoon,
 at each of which there was an affecting instance of mortality presented to our view:
 in the forenoon the remains of a young woman named Boyle were taken into meeting,
-and at Gracechurchstreet those of Mary, the wife of Thomas Wagstaffe;
+and at Gracechurch street those of Mary, the wife of Thomas Wagstaffe;
 both seasons were low and mostly silent.
 In the evening we attended the Meeting for Ministers and Elders,
 for the Peel Monthly Meeting, which was held at the School and Workhouse,
@@ -26,7 +26,7 @@ we proceeded after dinner to Market Harborough, lodged there,
 and travelled next day forty miles to Nottingham, where we arrived late,
 and were kindly received by John Storer and his wife.
 
-"`We were weary and exhausted upon reachmg Sheffield seventh-day,
+"`We were weary and exhausted upon reaching Sheffield seventh-day,
 but attended both meetings on first.
 That in the morning was a season of very close exercise,
 but I think owned with a good degree of the overshadowing of divine power,
@@ -163,7 +163,7 @@ but had not attained to a settlement in religion.
 
 "`After the dispersion of the public meeting, Friends were requested to remain,
 and here labour was experienced; but in the gospel, because love was the covering,
-which induced '`piainness of speech,`' and led to pour forth humble supplication.
+which induced '`plainness of speech,`' and led to pour forth humble supplication.
 
 "`Third-day, 2nd. Parting with dear Henry and Mabel Tuke,
 we set forward to an appointed meeting at Bradford, which proved a low exercising time;
@@ -197,7 +197,7 @@ the precious life is buried in visible things.
 where a meeting is held twice in the year on a fixed day,
 chiefly on account of the people who live about there and incline to attend.
 Sarah Wilson and several other Friends from Kendal, accompanied us;
-'`I believe it was felt by every sensible mind to be a solemn, favoured season;
+I believe it was felt by every sensible mind to be a solemn, favoured season;
 the extension of gospel love being evident to those assembled,
 concerning some of whom there is no doubt with me,
 the declaration of our Lord will in His own time be accomplished,
@@ -206,7 +206,7 @@ the declaration of our Lord will in His own time be accomplished,
 "`We returned to Kendal to dinner,
 and having mentioned to Friends there our view of having a public meeting in the evening,
 we found notice had been given.
-It was largely attend ed, and though the people did not seem so like the prepared,
+It was largely attended, and though the people did not seem so like the prepared,
 or thirsty ground, as in some other places,
 there was a solemn covering felt increasingly to prevail over the assembled company;
 and as there was an endeavour simply to move and minister in the ability received,
@@ -227,7 +227,7 @@ a peculiarly solemn stillness occurred, not from any plan,
 but like the wind blowing where, and how it listeth; and hearing the sound there of,
 we were sweetly gathered into pure silence,
 under which covering Sarah Wilson supplicated for continued preservation,
-and I thought the feel ing of solemnity was thereby increased:
+and I thought the feeling of solemnity was thereby increased:
 she has appeared only a few months in ministry.
 Several others were engaged in testifying to the truth, as it is in Jesus,
 and I was ready to hope it might be the termination of labour in this field;
@@ -256,7 +256,7 @@ who entertained us in true kindness.
 next morning, we had an appointed meeting for Friends,
 but apprehend all the members were not there; it was a low, exercising time.
 We did not feel satisfied to proceed before First-day,
-and spent part of Seventh in social inter course with our friends.
+and spent part of Seventh in social intercourse with our friends.
 We lodged with dear Mary Richardson, who is lively in spirit, and peaceful,
 though she has had to partake of a bitter cup in the form of domestic affliction;
 she bears up wonderfully,
@@ -407,7 +407,7 @@ and afterwards an adjournment of the Monthly Meeting;
 there were appointments to visit two, who had applied for membership,
 in both of which we united, and in the subsequent conference.
 Here, as in other places, the language may truly arise,
-'`the lathers where are they?`' So few, almost everywhere,
+'`the fathers where are they?`' So few, almost everywhere,
 being qualified to administer help or consolation to inquiring visited minds,
 for want of seeking themselves to be renewedly supplied with heavenly virtue.
 
@@ -618,6 +618,6 @@ account in connection with the present journey,
 it is presumed that she went on without further detention,
 reaching Dublin on seventh-day, the 8th of twelfth month, where she met her husband,
 and returning with him to their own habitation,
-obtained the rest and care which her exhausted frame was greatly in need of
+obtained the rest and care which her exhausted frame was greatly in need of.
 My dear mother travelled in this engagement about two thousand miles by land,
 and crossed the sea six times.

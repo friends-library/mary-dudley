@@ -1,7 +1,7 @@
 == Chapter VII
 
 [.chapter-synopsis]
-* Continuation of the same journey, comprising a visit to the North of England and Scotland. 1792.
+* 1792+++.+++ Continuation of the same journey, comprising a visit to the North of England and Scotland
 
 "`We remained in the city over first-day, attending Peel meeting in the morning,
 and Grace Church-street in the afternoon,
@@ -617,6 +617,6 @@ account in connection with the present journey,
 it is presumed that she went on without further detention,
 reaching Dublin on seventh-day, the 8th of twelfth month, where she met her husband,
 and returning with him to their own habitation,
-obtained the rest and care which her exhausted frame was greatly in need of
+obtained the rest and care which her exhausted frame was greatly in need of.
 My dear mother travelled in this engagement about two thousand miles by land,
 and crossed the sea six times.
