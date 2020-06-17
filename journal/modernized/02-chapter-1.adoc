@@ -427,7 +427,7 @@ ____
 And you, O Christ, are all in all!`'
 ____
 
-['.no-indent']
+[.no-indent]
 With regard to silent meetings,
 I apprehend their authority may be known by the power they are attended with.
 I have not been at such,
