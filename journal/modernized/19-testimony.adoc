@@ -1,4 +1,4 @@
-[#testimony-southwark.style-blurb, short="Testimony of Southwark Monthly Meeting"]
+[.style-blurb, short="Testimony of Southwark Monthly Meeting"]
 == Testimony of Southwark Monthly meeting, concerning Mary Dudley, deceased.
 
 This our beloved friend was born in the city of Bristol, the 8th of sixth month 1750,
