@@ -263,7 +263,7 @@ my heart being so filled that I could have spoken to
 the people as I walked along the street,
 and while in the house where we stopped to get a little refreshment;
 but I felt what I was, and who I was with,
-and had not to courage to query whether we might not as well remain a while;
+and had not the courage to query whether we might not as well remain a while;
 therefore with the heaviest heart I ever remember feeling at leaving any place,
 we went on board a treckschuyt for Delft, whence we proceeded to Rotterdam,
 and there got to the house of an English woman that night.
@@ -334,7 +334,7 @@ but keep quietly among themselves, exemplary in their conduct, doing good,
 and communicating of their outward blessings; plain in their appearance and manner;
 one of these, after sitting in an opportunity where evident solemnity covered us,
 observed, that though we could not understand each other,
-there was a feeling and unity within.`'
+there was a feeling and unity within.
 
 "`First-day, 6th of Fourth month.
 We had two public meetings, one at half-past nine, the other at four.
@@ -351,7 +351,7 @@ We went to tea with a family named Decknatel--a widow, her son, and two daughter
 these were educated in the Anabaptist profession,
 her husband having been a preacher among this sect,
 but since his death they have not joined in communion with any particular people,
-but keep themselves select, except going '`sometimes to the Moravian worship.
+but keep themselves select, except going sometimes to the Moravian worship.
 A sweet influence prevailed in the house,
 and a good deal of religious conversation occurred--
 John Vanderwerf being with us to interpret.
@@ -674,7 +674,7 @@ smooths what would otherwise be hard to bear.
 Their love for our company is such that they seldom leave us alone,
 and seem to think they cannot do enough to make us comfortable.`"
 
-"`A few both of the men and women are sensible, intelligent persons, with whom,
+"`A few, both of the men and women, are sensible, intelligent persons, with whom,
 could we converse, some of us would be well pleased.
 
 "`We are well aware,
